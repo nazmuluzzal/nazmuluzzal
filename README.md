@@ -14,7 +14,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="">
-<a href="mailto:uzzalnazmul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-uzzalnazmul-informational?style=flat-square&logo=gmail"></a>
+<a href="mailto:uzzalnazmul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-uzzalnazmul@gmail.com-informational?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/nazmuluzzal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%20Nazmul%20Hasan-informational?style=flat-square&logo=linkedin"></a>
   
 </p>
