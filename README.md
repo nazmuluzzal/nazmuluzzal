@@ -2,19 +2,18 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on any open source development
-- 💬 Ask me about Tech Ga
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on any open source development.
+- 💬 Ask me about Tech.
 - 📫 How to reach me: uzzalnazmul@gmail.com
-- 🥅 2021 Goals: NextJS and Gatsby
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love travelling and playing fps games
+- 🥅 2021 Goals: NextJS and Gatsby.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love travelling and playing fps games.
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="">
 <a href="mailto:uzzalnazmul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-uzzalnazmul-informational?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/nazmuluzzal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%20Nazmul%20Hasan-informational?style=flat-square&logo=linkedin"></a>
   
@@ -28,7 +27,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
