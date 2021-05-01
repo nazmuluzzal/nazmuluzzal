@@ -1,11 +1,10 @@
-## Hi there 👋 I'm Nazmul.
+# Hi, 👋 I'm Nazmul.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on any open source development.
 - 💬 Ask me about Tech.
-- 📫 How to reach me: uzzalnazmul@gmail.com
 - 🥅 2021 Goals: NextJS and Gatsby.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love travelling and playing fps games.
