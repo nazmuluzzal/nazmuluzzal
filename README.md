@@ -39,8 +39,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 <br/>
+
+
 ![](https://komarev.com/ghpvc/?username=nazmuluzzal&color=blueviolet)
-<br/>
+
+
 <a href="https://github.com/nazmuluzzal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmuluzzal&theme=tokyonight&show_icons=true" />
   
