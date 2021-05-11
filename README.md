@@ -5,9 +5,8 @@
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on any open source development.
 - 💬 Ask me about Tech.
-- 🥅 2021 Goals: NextJS and Gatsby.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love travelling and playing fps games.
+- 🥅 2021 Goals: NextJS.
+- ⚡ Fun fact: I love traveling and playing fps games.
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
