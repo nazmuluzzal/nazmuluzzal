@@ -5,7 +5,12 @@
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on any open source development.
 - 💬 Ask me about Tech.
-- 🥅 2021 Goals: NextJS.
+<!---
+your comment goes here
+and here
+[//]: <> (- 🥅 2021 Goals: NextJS)
+-->
+[//]: <> (- 🥅 2021 Goals: NextJS)
 - ⚡ Fun fact: I love traveling and playing fps games.
 
 
