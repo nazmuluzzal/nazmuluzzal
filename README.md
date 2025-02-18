@@ -10,7 +10,6 @@ your comment goes here
 and here
 [//]: <> (- 🥅 2021 Goals: NextJS)
 -->
-[//]: <> (- 🥅 2021 Goals: NextJS)
 - ⚡ Fun fact: I love traveling and playing fps games.
 
 
