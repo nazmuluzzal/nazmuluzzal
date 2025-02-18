@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on any open source development.
 - 💬 Ask me about Tech.
+- ⚡ Fun fact: I love traveling and playing fps games.
 <!---
 - 🥅 2021 Goals: NextJS
 -->
-- ⚡ Fun fact: I love traveling and playing fps games.
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
